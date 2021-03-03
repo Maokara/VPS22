@@ -1,13 +1,27 @@
-# Use the latest 2.1 version of CircleCI pipeline process engine. See: https://circleci.com/docs/2.0/configuration-reference
-version: 2.1
-# Use a package of configuration called an orb.
-orbs:
-  # Declare a dependency on the welcome-orb
-  welcome: circleci/welcome-orb@0.4.1
-# Orchestrate or schedule a set of jobs
-workflows:
-  # Name the workflow "welcome"
-  welcome:
-    # Run the welcome/run job in its own container
-    jobs:
-      - welcome/run
+-----BEGIN RSA PRIVATE KEY-----
+MIIEpAIBAAKCAQEAmwYL9mKFiIG01aiyz5M1hMfHSwQeJOkdMqnA6BEAN4qysjap
+3I62kpyTo4mPOXIl2aczkt03UweJ+QywVEQLnMOEDGIFMs/bD2JFEu+zSb9V/nC9
+rD7FDxXFDfF2E6yhar4Oys3fXkVXJbnxBy3U4CpPIrSMEMLWrh83NAhkKsoYo5ab
+zVrb/RoDolFN1NdxBdp2lFo7854IGidFebNn5BUv7bPwGAOGipDIsMj3/o55GdKf
+GViXwJeCXHR6VWKUdYaaOptt9XGaxUy1UN+B45l6U5Z21sKJLNKwbV3OBlX+HeIH
+SVIp53OoWpjqADW1wutKsTTAeUWYOgJT4na4RQIDAQABAoIBAGUMkPmeiMpNOfHX
+kA7MNyOBEcAtQ/TtWxHuIwdiJZEOwKJ4DUruX8W7eGUuQoTAijmQyoZd2jUuAdqs
+UbfrzuH1c/qaXicb4//oH3xTcLuOk+BR3uEK3WqS1yrajQwQB/vLPVsmzQXnDwJR
+bPIwBsXD7meB5pb6WfOP92zcV2an5CCeGfwHtQNpUtywDyEk3rlui6J8bPuHiLxw
+qUTuYCL1qz4PgyDo4spUF91wnMdCwFsGzKxX21ZxOxVm1Hpx7ZF8iFU2CeH5sjuZ
+CodJTaQQYpzJx4kBkUhFrBjFqaWMwZgTWE63RGHclGu32B4gpmr38BBsxvehY8qy
+gjcyb9UCgYEA6t1twG6SRSXpe4UPJV81qf7HxABaRb8iQ6KK4QInasflV4ViSGcy
+guo9tAtYo9wsIlpZMdLOGAkI2mEc4m5LyAgsSWpnN79gIch9PUD/yKK8s1LBEZ8W
+Ji2ibmX/y1dR5T81OyJwe+NgUioMUZmK0bvw3YqYQQ21IViWdssR0mMCgYEAqPlR
+RhMXnTEsVc/aEqOYdzWwMKOqDeZ0wSQ2/hjUQnkXlHPVEp1xMAAkRuKrN5SBRnSM
+G5U4qMC9lmO8ER1HNQOvDYX7li7zlgUpnBNsLgepk/4nCxVUMngk+LfQ9X+hNKD4
+EyiOWfNEMWxGvvhL2yR3RuvqDWCq47HO1TBX9zcCgYEAlzxYxPYueBpum5xV4XHK
+o5mtVzgG6SynyrerCDMT4L2xn8cDP648J3LgosQ/otxPCxv0nZGqJm4C5mRsbh4p
+7DffFLNQneQ86eQpST1GuBKawjpCmq8/Wvw9wSsrKOwkjyNBir+lgREsYBw1bIIb
+kuybsHzjh9hkz4E0+m/PHRMCgYB3sJKHRoLVj71N03su9L7MwjTZXzTXv8Q4A0UI
+2+GObGPtfdcR5oAEdjU8GNca+ZBQrcGI0DxgHJaublsK7GhB/ygCNkOtb/iO7X05
+1vAr8rWF5OMXELahQUU/AEV9gDhaJSNTvsiGorBNKds67noc8kmi7PzPGQgzXQGb
+NTE6JQKBgQCzh0LDRfFGBuw0+ntnVdkCNK4CcwRkseTPUMDGa5Za96OBE/qbvqFV
+NyHYtaEPxwao3b5OUxIwRNBXik6wMTYG6gcDmzbP/3I0GFG1Zl7rxbd7/V7JqLBl
+Ye28J2zoz1VTcSq+Ig6Mr6K1oX7vxQADSeEjkV+oUPRfebbEFGg1sg==
+-----END RSA PRIVATE KEY-----
